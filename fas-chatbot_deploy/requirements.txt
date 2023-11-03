@@ -1,0 +1,5 @@
+# Revised requirements.txt
+Flask==2.2.2
+langchain==0.0.306
+requests==2.31.0
+vercel==0.2.1
